@@ -42,3 +42,44 @@ A clean data will enable us carry out analysis that will make smarter business d
 ![](1.png)
 
 
+This shows that:
+
+* a) there are 4 distinct courses in review: Business Finance, Graphic Designs, Musical Instruments and Web development.
+* b) review period is between 9th July 2011 to 6th July 2017.
+* c) levels of learning considered are: all levels. beginners level, intermediate and expert level
+* d) There are 3676 courses that were registered for
+* e) Total number of subscribers is approximately 12 million
+* f) Total revenue is 243,000.
+
+Here, we understand that 92% of everyone that took the courses found it worth their money. So, they paid for the courses, and they will be willing to pay as long as they continue to get value for their money.
+
+From the chart above, it is observed that Web Development is the subject that **68%** of the subscribers went for. It accounted for 8 million subscribers. Followed by Business Courses which has about **16%** of the total subscribers and has 2 million subscribers. The last being Musical Instrument which accounted for **7%** and about one million subscribers. The gap between the first and second is quite high and it feels so good to know that people want to learn and venture into website development owning to the fact that virtually every business wants to have an online presence, all thanks to the internet sensitization programs that are held for business owners.
+
+It is also seen that the rating increased significantly from 2011 until early 2016 and began to drop. As the ratings dropped, the number of subscribers also dropped and the revenues dropped too.
+
+**Business finance** has the highest rating of courses followed by the **Web development** little wonder business finance is seen to be next with the highest subscribers just after web development.
+                                                
+                                                    
+![](4.png)
+                       
+We observed that the beginners level had the highest revenue **($82,925)** for the company followed by the intermediate level **($28,250)**.
+
+## **Root Cause Analysis:**
+
+From the vlookup that was done with excel, Web development course has 17 out of 20, musical instrument has 2 and Business Finance has just 1 course. Majority of these 20 courses are free(12 out of 20), perhaps that's why people took the courses. Web development courses ranked highest by number of subscribers possibly because they have more free courses, aside that, they wouldn't have had that much number, seeing that the course rating is lower compared to business finance. Despite the fact that web development had more free courses, it was able to generate the highest revenue because the paid courses have higher amount in comparison to others.
+
+For Business Design: they are the course with the second largest number of subscribers, they also have the highest rating out of the four courses and also that gave the company the second highest revenue. Despite the wide gap in number of subscribers between web development and business finance, business finance generated a revenue that is not far from the revenue of web development. This is to show that the course is doing very well and has potential to generate more revenue.
+
+Graphic Design: It has the 3rd highest subscribers and the third revenue generating course, the rating per subject too is far compared to the number of subscribers that it has. This is another course that has potential to generate more revenue if looked into.
+
+The Music course is the course with the lowest subscriber, revenue and also rating. It is not quite popular hence the low subscription or perhaps interest of people are not here.
+
+## **Conclusion:**
+
+There is a high demand for web development courses, so the course facilitators should create more web development courses with high rating and content so that people can subscribe, and move to the intermediate level. However, the high cost of these web development courses should be reconsidered. Instead it should be reduced and more content be poured.
+
+Business Finance courses are the next in demand. Hence there is also a market for business courses. In a bid to diversify and get more revenues, more business courses either free or paid should be created with quality rating to maintain the set standard already. Knowing that subscribers increase as the rating of the courses increases.
+
+72% of people bought the beginner level and 25% proceeded to buy the intermediate courses. From this, there is a huge gap, perhaps not enough satisfaction was gotten from the beginners level that made those that migrated to intermediate level low. So at all level of learning, every course is important. the content duration, quality and rating shouldn't be compromised.
+
+Graphics Design courses have high potential to generate more revenue for the company by increasing the price of the course since its rating is fair.
