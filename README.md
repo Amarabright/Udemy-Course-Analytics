@@ -39,3 +39,6 @@ A clean data will enable us carry out analysis that will make smarter business d
 **Tableau** being a data visualization tool that the business intelligence industry leverages on, was also used since it helps in sampling raw data in a very easy and understandable format.
 
 ## **Findings**
+![](1.png)
+
+
