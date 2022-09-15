@@ -84,3 +84,6 @@ Business Finance courses are the next in demand. Hence there is also a market fo
 72% of people bought the beginner level and 25% proceeded to buy the intermediate courses. From this, there is a huge gap, perhaps not enough satisfaction was gotten from the beginners level that made those that migrated to intermediate level low. So at all level of learning, every course is important. the content duration, quality and rating shouldn't be compromised.
 
 Graphics Design courses have high potential to generate more revenue for the company by increasing the price of the course since its rating is fair.
+
+
+At the end, They were pleased with my work and i was awarded a certificate. Find attached on this report.
