@@ -1,5 +1,6 @@
 # Udemy-Course-Analytics
-This is the Analysis of courses taken by students in Udemy from 2011 to 2017.
+
+In August 2021, I was a Data Analyst Intern with EntryLevel although a Virtual internship. This project was the Capstone project that was done to demonstrate my understanding of the role of a Data Analyst. 
 
 
 ## **Project Description:**
