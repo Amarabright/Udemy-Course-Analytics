@@ -38,6 +38,7 @@ A clean data will enable us carry out analysis that will make smarter business d
 
 **Microsoft Excel** was used for analysis because from its numerous functions, pivot tables and built-in analytic tools, it helps to analyze, visualize and gain insights from data.
 **Tableau** being a data visualization tool that the business intelligence industry leverages on, was also used since it helps in sampling raw data in a very easy and understandable format.
+**powerBI** was also used for visualization.
 
 ## **Findings**
 ![](1.png)
